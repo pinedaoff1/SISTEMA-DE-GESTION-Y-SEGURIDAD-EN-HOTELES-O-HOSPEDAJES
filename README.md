@@ -12,7 +12,7 @@ Nuestro sistema digitaliza y centraliza toda esta información, facilitando la g
 
  Integrantes del Equipo  
 [JULIAN ZAMIR PINEDA HERNANDEZ](https://github.com/pinedaoff)
-[CRISTIAN SANTIAGO VANEGAS MARTINEZ](https://github.com/vanegas)
+[CRISTIAN SANTIAGO VANEGAS MARTINEZ](https://github.com/CSVM123)
  
 
 Módulos del Sistema  
